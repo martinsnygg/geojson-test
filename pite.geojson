@@ -1,0 +1,293 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "DateTime": "4/2/2014 10:49:56 AM",
+        "Distance(m)": 100,
+        "Speed (km/h)": 23.84,
+        "Altitude (m)": 41.6,
+        "eIRI": 1.09947333333333,
+        "cIRI": 0.648786666666667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.364602,
+          65.349882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DateTime": "4/2/2014 10:50:10 AM",
+        "Distance(m)": 200,
+        "Speed (km/h)": 26.6945454545455,
+        "Altitude (m)": 40.8181818181818,
+        "eIRI": 0.884309090909091,
+        "cIRI": 0.419945454545455
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3677200365846,
+          65.3510662711066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DateTime": "4/2/2014 10:50:28 AM",
+        "Distance(m)": 300,
+        "Speed (km/h)": 39.786,
+        "Altitude (m)": 40.5,
+        "eIRI": 0.88245,
+        "cIRI": 0.67246
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3699273031821,
+          65.3500701139302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DateTime": "4/2/2014 10:50:37 AM",
+        "Distance(m)": 400,
+        "Speed (km/h)": 49.8175,
+        "Altitude (m)": 43.125,
+        "eIRI": 0.8554,
+        "cIRI": 0.5238
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3721357267204,
+          65.3498700058171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DateTime": "4/2/2014 10:50:44 AM",
+        "Distance(m)": 500,
+        "Speed (km/h)": 35.1841666666667,
+        "Altitude (m)": 39.9166666666667,
+        "eIRI": 1.073175,
+        "cIRI": 0.625266666666667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3742583699531,
+          65.3497510122587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DateTime": "4/2/2014 10:50:55 AM",
+        "Distance(m)": 600,
+        "Speed (km/h)": 42.8388888888889,
+        "Altitude (m)": 35.5555555555556,
+        "eIRI": 0.905355555555555,
+        "cIRI": 0.726177777777778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3750106730977,
+          65.3509322269384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DateTime": "4/2/2014 10:51:03 AM",
+        "Distance(m)": 700,
+        "Speed (km/h)": 51.08125,
+        "Altitude (m)": 31.625,
+        "eIRI": 1.577675,
+        "cIRI": 1.0577125
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3767690350365,
+          65.3514598414895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DateTime": "4/2/2014 10:51:10 AM",
+        "Distance(m)": 800,
+        "Speed (km/h)": 49.9133333333333,
+        "Altitude (m)": 30.7777777777778,
+        "eIRI": 1.14587777777778,
+        "cIRI": 0.685211111111111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3782213377891,
+          65.352124392433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DateTime": "4/2/2014 10:51:18 AM",
+        "Distance(m)": 900,
+        "Speed (km/h)": 36.9416666666667,
+        "Altitude (m)": 31,
+        "eIRI": 1.68970833333333,
+        "cIRI": 1.01259166666667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3798346299604,
+          65.352863378703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DateTime": "4/2/2014 10:51:29 AM",
+        "Distance(m)": 1000,
+        "Speed (km/h)": 36.5890909090909,
+        "Altitude (m)": 30,
+        "eIRI": 1.02818181818182,
+        "cIRI": 0.881772727272727
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.381486304591,
+          65.3535913986562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DateTime": "4/2/2014 10:51:39 AM",
+        "Distance(m)": 1100,
+        "Speed (km/h)": 37.3709090909091,
+        "Altitude (m)": 30.1818181818182,
+        "eIRI": 1.40099090909091,
+        "cIRI": 1.0615
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3828586877313,
+          65.3542942631167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DateTime": "4/2/2014 10:51:49 AM",
+        "Distance(m)": 1200,
+        "Speed (km/h)": 30.5316666666667,
+        "Altitude (m)": 33,
+        "eIRI": 0.917191666666667,
+        "cIRI": 0.457683333333333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3845317188486,
+          65.3549160681191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DateTime": "4/2/2014 10:52:07 AM",
+        "Distance(m)": 1300,
+        "Speed (km/h)": 48.6166666666667,
+        "Altitude (m)": 35.5555555555556,
+        "eIRI": 0.8153,
+        "cIRI": 0.6672
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.386082036239,
+          65.3534030748758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DateTime": "4/2/2014 10:52:15 AM",
+        "Distance(m)": 1400,
+        "Speed (km/h)": 53.58875,
+        "Altitude (m)": 34.125,
+        "eIRI": 0.8560125,
+        "cIRI": 0.544525
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3881303681345,
+          65.3528774027805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DateTime": "4/2/2014 10:52:22 AM",
+        "Distance(m)": 1500,
+        "Speed (km/h)": 56.25625,
+        "Altitude (m)": 33.5,
+        "eIRI": 0.8091875,
+        "cIRI": 0.4833
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3903423176846,
+          65.3526034166026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DateTime": "4/2/2014 10:52:29 AM",
+        "Distance(m)": 1600,
+        "Speed (km/h)": 32.0815384615385,
+        "Altitude (m)": 34.5384615384615,
+        "eIRI": 1.0041,
+        "cIRI": 0.648007692307692
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3927349390367,
+          65.3524795151838
+        ]
+      }
+    }
+  ]
+}
