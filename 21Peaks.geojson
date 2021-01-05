@@ -1,0 +1,341 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lojstahajd 82m 2020-07-07",
+                "desc": "Gotlands kommun, Gotland County, Region Götaland, Sverige",
+                "type": "29",
+                "time": "2020-07-04T22:32:28.997Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3371250768,
+                    57.3321355152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vensbrinksberget 124m 2020-07-21",
+                "desc": "Nyköpings kommun, Södermanlands län, Svealand, Sverige",
+                "type": "29",
+                "time": "2020-07-21T08:25:55.089Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.327765,
+                    58.7907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Magleröd 212m 2020-10-29",
+                "desc": "Svalövs kommun",
+                "type": "29",
+                "time": "2020-10-28T20:38:29.145Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.138934,
+                    56.064973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rävabacken 189m",
+                "desc": "Olofströms kommun Blekinge län",
+                "type": "30",
+                "time": "2020-12-22T08:32:15.143Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.526937,
+                    56.441533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Storvätteshågna 1204m",
+                "desc": "Älvdalens kommun, Dalarnas län",
+                "type": "30",
+                "time": "2020-12-22T08:33:55.888Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.45,
+                    62.116658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stora Korpimäki / Stora Korpmägg 711m\n",
+                "desc": "Ockelbo kommun, Gävleborgs län",
+                "type": "30",
+                "time": "2020-12-22T08:51:56.908Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2920748387,
+                    60.9892704313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ölmesberg 236m",
+                "desc": "Halmstads kommun, Hallands län",
+                "type": "30",
+                "time": "2020-12-22T08:52:59.466Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0318229302,
+                    56.7269395098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Helgasfjället 1796m",
+                "desc": "Bergs kommun, Jämtlands län",
+                "type": "30",
+                "time": "2020-12-22T08:53:37.597Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.452745,
+                    62.903883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tomtabacken 377m",
+                "desc": "Nässjö kommun, Jönköpings län",
+                "type": "30",
+                "time": "2020-12-22T08:54:30.835Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.470154,
+                    57.500443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Grönsved 292m",
+                "desc": "Vimmerby kommun, Kalmar län",
+                "type": "30",
+                "time": "2020-12-22T08:56:18.107Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5122234481,
+                    57.7350375938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kebnekaise 2111m",
+                "desc": "Kiruna kommun, Norrbottens län",
+                "type": "30",
+                "time": "2020-12-22T09:00:54.529Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5219404447,
+                    67.9025042974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tornberget 111m",
+                "desc": "Haninge kommun, Stockholms län",
+                "type": "30",
+                "time": "2020-12-22T09:02:01.497Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.014357,
+                    59.136991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tallmossen 118m",
+                "desc": "Heby kommun, Uppsala län",
+                "type": "30",
+                "time": "2020-12-22T09:04:03.127Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.088191,
+                    59.971145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Granberget, Höljes 701m",
+                "desc": "Norra Finnskoga distrikt, Torsby kommun, Värmlands län",
+                "type": "30",
+                "time": "2020-12-22T09:05:43.392Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.742035,
+                    60.897398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Norra Storfjället 1768m",
+                "desc": "Storumans kommun, Västerbottens län",
+                "type": "30",
+                "time": "2020-12-22T09:07:19.283Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2701365702,
+                    65.892086843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eskilsberget 446m",
+                "desc": "Filipstads kommun, Värmlands län",
+                "type": "30",
+                "time": "2020-12-22T09:11:14.540Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4368717675,
+                    60.0255710611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Solbergsliden 594m",
+                "desc": "Anundsjö distrikt, Örnsköldsviks kommun, Västernorrlands län",
+                "type": "30",
+                "time": "2020-12-22T09:08:13.390Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6355518872,
+                    63.8066209539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Timmeråsarna 331m",
+                "desc": "Skinnskattebergs kommun, Västmanlands län",
+                "type": "30",
+                "time": "2020-12-22T09:08:51.195Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.459782,
+                    59.883057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Galtåsen 362m",
+                "desc": "Hössna distrikt, Ulricehamns kommun, Västra Götalands län",
+                "type": "30",
+                "time": "2020-12-22T09:09:33.338Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.550429,
+                    57.784301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stenabo 328m",
+                "desc": "Ydre kommun, Östergötlands län",
+                "type": "30",
+                "time": "2020-12-22T09:10:17.959Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.241103,
+                    57.767866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stora Äskås 314m",
+                "desc": "Växjö kommun, Kronobergs län",
+                "type": "30",
+                "time": "2021-01-03T11:59:26.583Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0907526771,
+                    57.1392799349
+                ]
+            }
+        }
+    ]
+}
